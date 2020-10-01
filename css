@@ -1,0 +1,30 @@
+body {
+    font-family: 'Baskervville', serif;
+    color: rgb(53, 43, 2); 
+    }
+    .letter{
+        width: 700px;
+        margin: 15px;
+        padding: 30px;
+        background-color: rgb(241, 233, 203); 
+    }
+    .remitente {
+        text-align: right;
+    }
+    a {
+        text-decoration: none;
+        color:rgb(153, 91, 10); 
+    }
+    footer{
+        margin-top: 50px;
+    }
+    .uppercase {
+        text-transform: uppercase;
+      }
+   
+    .color {
+        color: rgb(153, 91, 10);
+      }
+    a {
+        font-family: 'Dancing Script', cursive;
+    }
